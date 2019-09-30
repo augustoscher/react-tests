@@ -9,7 +9,7 @@ function App() {
     <>
       <Header />
       <Title title="Titulo 1" />
-      <Hook />
+      <Hook name="test" />
     </>
   );
 }
